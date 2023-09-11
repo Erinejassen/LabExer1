@@ -1,0 +1,17 @@
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net6.0-windows\AccountRegistration.exe
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net6.0-windows\AccountRegistration.deps.json
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net6.0-windows\AccountRegistration.runtimeconfig.json
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net6.0-windows\AccountRegistration.dll
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\bin\Debug\net6.0-windows\AccountRegistration.pdb
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.csproj.AssemblyReference.cache
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.Form1.resources
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.AssemblyInfoInputs.cache
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.AssemblyInfo.cs
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.dll
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\refint\AccountRegistration.dll
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.pdb
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\AccountRegistration.genruntimeconfig.cache
+C:\Users\erine.183813\source\repos\AccountRegistration\AccountRegistration\obj\Debug\net6.0-windows\ref\AccountRegistration.dll
